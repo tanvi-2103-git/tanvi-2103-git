@@ -54,13 +54,21 @@ Building scalable web applications and REST APIs.
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
-![GitHub Stats](https://github-readme-stats-olive-theta-66.vercel.app/api?username=tanvi-2103-git&show_icons=true&theme=github_dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats-olive-theta-66.vercel.app/api?username=tanvi-2103-git&show_icons=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats-olive-theta-66.vercel.app/api/top-langs/?username=tanvi-2103-git&layout=compact&theme=github_dark)
-
----
+<p align="center">
+  <img
+    src="https://github-readme-stats-olive-theta-66.vercel.app/api/top-langs/?username=tanvi-2103-git&layout=compact&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
 
 ## 📌 Featured Projects
 
