@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tanvi 👋
 
-<!--
-**tanvi-2103-git/tanvi-2103-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Skills:
+- React.js
+- Next.js
+- Node.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- System Design
+- AWS
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/tanvi-dudam/
+- Email: tanvidudam2003@gmail.com
